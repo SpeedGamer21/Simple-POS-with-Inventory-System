@@ -1,0 +1,25 @@
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.FrmAddEntry.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.Con_Sett.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmAddStock.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmEditItem.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmSalesReport.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmStocks.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmInvRep.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmLogin.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmMain.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmPOS.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmPOSsearch.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmprofiles.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.Properties.Resources.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmReports.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmLog.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory System.csproj.GenerateResource.Cache
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\bin\Debug\Inventory System.exe.config
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\bin\Debug\Inventory System.exe
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\bin\Debug\Inventory System.pdb
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\bin\Debug\MySql.Data.dll
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\bin\Debug\MySql.Data.xml
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory System.exe
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory System.pdb
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.frmReceipt.resources
+G:\Dropbox\Dropbox\Inventory System\Inventory System\Inventory System\obj\Debug\Inventory_System.Sales_Report.resources
